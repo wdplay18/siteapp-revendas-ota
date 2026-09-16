@@ -1,0 +1,10 @@
+{
+  "version": "1.0.4",
+  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.4.zip",
+  "sha256": "8b2f68ba031c93c630ecdf6cbd0ba8ed91d29c0ff3db846c9769f8321d45c9b0",
+  "changelog": [
+    "Primeiro teste do canal OTA remoto oficial.",
+    "Validação do download HTTPS e SHA-256.",
+    "Homologação do fluxo de instalação e rollback sem alterar o banco de dados."
+  ]
+}
