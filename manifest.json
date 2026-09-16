@@ -1,10 +1,11 @@
 {
-  "version": "1.0.4",
-  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.4.zip",
-  "sha256": "8b2f68ba031c93c630ecdf6cbd0ba8ed91d29c0ff3db846c9769f8321d45c9b0",
+  "version": "1.0.5",
+  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.5.zip",
+  "sha256": "b22eca1e6bb3bab46064ce697b29cb87d66e9059aaea30ea2967993518422e51",
   "changelog": [
-    "Primeiro teste do canal OTA remoto oficial.",
-    "Validação do download HTTPS e SHA-256.",
-    "Homologação do fluxo de instalação e rollback sem alterar o banco de dados."
-  ]
+    "Ativa assinatura digital RSA-SHA256 obrigatória no manifesto OTA.",
+    "Mantém validação SHA-256 do pacote e dos arquivos internos.",
+    "Mantém rollback local e proteção de config.php, uploads e backups."
+  ],
+  "signature": "R7eGRkTlcJlFt2bs4Z+qQuet3OO/mGsn2tU2uyrrMunaJXLo9HV3iQ/yY8W5FGo9NGE2+HFczxTTBiWARGTAAl03FsmVNxt2IWjuoJ/6f87S5+ENaH2g7evXdB5mZ7WWM0HRQIuUAtx549c6psWLHmOdqJUb+eg4crmZc8q247v8WdVqa4u6+nT1pD2b7Pl6AFxr76l22aNxOw7P396ryDxaWSClB9mcw9H6JUyHoHy/nTpkqdje8qKpIKPl5CqVEZl1Dvqvts5iubUAMqk13xpFQgxmKkZ6iJlfbkvDouQ5ntU2qtHp4ugqIjg4tJ7cBbC98PLVqu6G/p7sttVcoRztvJWIiIFDYUm3R8bMlAbrqxcCgMB58CbdPPHBG4IiX7COvyTmctmQps/oj2X6uw25RJnl7sTmntM66+XYzW7GY5J+SLKncFIpG40wuP/SFcPQLG5e90DLiw4fN6La5wS4whjgUXm9BqVFgMGBfz7M74fx5Iw0M7fMajVelCK7"
 }
