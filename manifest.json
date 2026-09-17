@@ -1,11 +1,13 @@
 {
-  "version": "1.0.5",
-  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.5.zip",
-  "sha256": "b22eca1e6bb3bab46064ce697b29cb87d66e9059aaea30ea2967993518422e51",
+  "version": "1.0.9",
+  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.9.zip",
+  "sha256": "f4f768a3548cad3607a5f27f4eb093bc16fe31b7de194c0b643b49d2c9c670a1",
   "changelog": [
-    "Ativa assinatura digital RSA-SHA256 obrigatória no manifesto OTA.",
-    "Mantém validação SHA-256 do pacote e dos arquivos internos.",
-    "Mantém rollback local e proteção de config.php, uploads e backups."
+    "Corrige a sobreposição e compressão das opções do menu lateral no Painel Master em telas desktop.",
+    "Mantém o comportamento responsivo horizontal do menu em telas menores.",
+    "Mantém banco de dados, config.php, uploads e backups sem alterações."
   ],
-  "signature": "R7eGRkTlcJlFt2bs4Z+qQuet3OO/mGsn2tU2uyrrMunaJXLo9HV3iQ/yY8W5FGo9NGE2+HFczxTTBiWARGTAAl03FsmVNxt2IWjuoJ/6f87S5+ENaH2g7evXdB5mZ7WWM0HRQIuUAtx549c6psWLHmOdqJUb+eg4crmZc8q247v8WdVqa4u6+nT1pD2b7Pl6AFxr76l22aNxOw7P396ryDxaWSClB9mcw9H6JUyHoHy/nTpkqdje8qKpIKPl5CqVEZl1Dvqvts5iubUAMqk13xpFQgxmKkZ6iJlfbkvDouQ5ntU2qtHp4ugqIjg4tJ7cBbC98PLVqu6G/p7sttVcoRztvJWIiIFDYUm3R8bMlAbrqxcCgMB58CbdPPHBG4IiX7COvyTmctmQps/oj2X6uw25RJnl7sTmntM66+XYzW7GY5J+SLKncFIpG40wuP/SFcPQLG5e90DLiw4fN6La5wS4whjgUXm9BqVFgMGBfz7M74fx5Iw0M7fMajVelCK7"
+  "signature_algorithm": "RSA-SHA256",
+  "key_id": "rsa-2026-09-v3",
+  "signature": "bC9M9rcKaws4r9IsweAhTRw8je3g1u4Vd8vHG/wreHZrndHbtgNTL3vpJEJawmsGakuoQuPtflpKCg9hfgesVIuN3hRV4Y6NE5IswtnogpvkE14/LiKFQFb72UxKlfFmi3Vijat7QqwEKKkdoQ74MZeR5o0iHe8lvUq34iHPfKmOxxFzWH9lKURkKg75o/KuobKCKAEJlp2rkmw7eD1vo3vRV3E/MDVSzGXk/ioismnBF7Q++0j2v1M3KqgIuJ4skKansYxDuLkIkZ4UhbeQVPZHIY4Nv50UAyh63tvBEJqKMpCIrb/t/22W0FIp8RJi/53Y+Zsn7J7rlZirh0O5owznDLqVXKxu7KRcB0C1UANc3cZOOZnJSY/y/q/65pqf2tman4g6TBEoQCfTAOHrxE0EKxU5zfuHpk3wYROL2s9FQ3KtQS4y4xed6KTdkuizY72OaOIimgsmfOxNgMBJcx8GaFajxFDKdWRIoEnvxwp2SKnM9D7WbXBULscBzmEu"
 }
