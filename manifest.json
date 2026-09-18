@@ -1,13 +1,15 @@
 {
-  "version": "1.0.11",
-  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/c6501ec57519fef31bc6ee641699b87f0eef7150/packages/siteapp-revendas-1.0.11.zip",
-  "sha256": "ed3389b71e35504a70684e35449a7ab9486e8f712b8f911961c3b98914463d25",
+  "version": "1.0.12",
+  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.12.zip",
+  "sha256": "f3960be6b71c309261f516d2c52e495ab681bd810b3f568c71aa96a37cb0daa6",
   "changelog": [
-    "Compactação visual da loja pública baseada na homologação real em celular.",
-    "Painel administrativo e login mais compactos em telas de 360 a 430 px.",
-    "Navegação horizontal do painel com indicação visual de conteúdo adicional e upload de arquivos otimizado para mobile."
+    "Novo visual público fiel à referência mobile, com menu hambúrguer e tipografia reajustada.",
+    "Novas páginas públicas de Planos e Jogos do Dia.",
+    "Gestão de WhatsApp e Planos por Master/Revenda e Guia de Jogos centralizado no Master.",
+    "Edição de planos e jogos, validações e melhorias mobile no painel.",
+    "Preparação segura para banco V8 com migration comercial documentada."
   ],
   "signature_algorithm": "RSA-SHA256",
   "key_id": "rsa-2026-09-v3",
-  "signature": "oUK14vUtE/yfP77vj/jm9YuxByh2B7nD5Wy8foZedSK3UyXAWoCfvxqJ4kXJ8PFkvJ/ywtYFn7VKg6MnE/qHnktpKAaIaZhBekI0smggZ1vyShcxIr3qmuyyE/S8x3EHmQ1LzYj7+JySiG+A69fLIHUHfx66gJFs7ZCN2/Zw+Tv1CwepfYAK2lMuf6VvUmqF9q5RsXEvupw10mR0JJppAinds/VugGUxKFx+SGisXQVMeGbdeBjSepAhKH72hOEZGPpGnyHm+Y8uGL6DKAFFcPZignm94r/LM4vlTE6l8E4DuGGCCh/6xYYgu6kj2WguXOLjfBOZEJ6LiWckWZmZ2ZzE8cPVODlx5++92MVRhfbYUNiU+C/DAzITsP0GyTyrVZ5fB9pWnD1Y0f/nJJcseo8+++b9WtWYJ+ZZfu13XgbYUlGhHN25F06tWuuUcpnkneIM1JwSjT9XEdzp6disG40jmWvzFfacY6YnEB/PzsftjN/SDnqN0S2S3jJPr5Rn"
+  "signature": "cwOP7VzPSuYOPkzG87HyzLt6GbMiapONsoGy+JGhRIsavDOKGJItw03ZZDLgJsqsNkYL1UH1ztpQ1GtMhnSdmmjmhCQv/WCJLfT8QAFG4Z9TJjmFea0n9W5nsblf/AlTKYs1VrAaNf7NNagu3L+64OkkQ2sK8yrDOUaYrdfUTp/7z6OEsHi9XhVAmmkpYG+IPNlPy9es5qHuEmkdQ++HoyH+RpsB1PaaaOrEbTN8zVKnN1WPlKtnbjUWCBizn+aCDPrNAUlj4XNxuVweIFQFmo6OXlEi+AC6tvNyJHWSlIVrmtdHJJ+SZfYJvOjIj/onoWDN2U73UAmYDnAo/6W8YFZl6nv+8e+/CKoUwKrmn6sa/DXbSLagYxVjlEoNB2Dof3GjGi5/jmGIfrWZX/b0HcAe3WwNvkLL8gktdLbV3mY/J0GeB3Ks/7V6WuJMC8YR6wxSGXi2Ljhaz1X1DBUxi6q0wZIpf1cJPXnBeT9LvcTP2eyQpwEUFNzpDZ9MKLBY"
 }
