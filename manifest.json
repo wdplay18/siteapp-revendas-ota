@@ -1,13 +1,13 @@
 {
-  "version": "1.0.10",
-  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.10.zip",
-  "sha256": "551610d7de27bf241f3c782849c4f88fd10bb6f8f98e2b8a601761a5b417fed3",
+  "version": "1.0.11",
+  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/c6501ec57519fef31bc6ee641699b87f0eef7150/packages/siteapp-revendas-1.0.11.zip",
+  "sha256": "ed3389b71e35504a70684e35449a7ab9486e8f712b8f911961c3b98914463d25",
   "changelog": [
-    "Redesign visual consolidado da loja pública, detalhes dos aplicativos e Central de Tutoriais.",
-    "Refinamentos mobile-first para 360, 390 e 430 px, com navegação rolável, alvos de toque e prevenção de overflow.",
-    "Refinamentos responsivos do Painel Administrativo sem alteração de banco de dados, config.php, uploads ou backups."
+    "Compactação visual da loja pública baseada na homologação real em celular.",
+    "Painel administrativo e login mais compactos em telas de 360 a 430 px.",
+    "Navegação horizontal do painel com indicação visual de conteúdo adicional e upload de arquivos otimizado para mobile."
   ],
   "signature_algorithm": "RSA-SHA256",
   "key_id": "rsa-2026-09-v3",
-  "signature": "g/MiTiXlN25I5hZhjeyfabbqDeis+rRAo2MivpzCv3MyDVxaawS8G11CfjdGpOHpKzzdwn2khcr2TgwRPdPyRzuezI/9tB2WFm/Nb4I34GHWtZIDW5QS5NOKUHq9oIXEz2TxZzoVJFEl6mtUzclZta9Mk2tJYX59L02Dx24uc7q0VjdKfn8ezVkaEUFLZqtVybisG1QDYooP4aThOQuGHkd1afcpHfCqzj6sr0BsxPCSOftN+EBx/CB1ufXCKvRWS1dmFSfShA9xl8NSGYVYEYNIVS/PICy5EGnbjhoIalHgIcDB4Qe1WVU90GmNw2gylLCS9PW5HxaVzBTfWGnjCx0imNrfamlhpV3TQ2cpuFiQIse3teISqzAu+uvhjoc2hKTx3IL0HwpK4sjzpiKvF3sBoMX01n6+J63JDg22aao+vSt9Z81EqRpZ+qXLdUZQLauCwfngP05GV7vhqUg5Ilv/dfa8FpfRekLHhwo9H21Edb1jWipmkV1gCrUiMk64"
+  "signature": "oUK14vUtE/yfP77vj/jm9YuxByh2B7nD5Wy8foZedSK3UyXAWoCfvxqJ4kXJ8PFkvJ/ywtYFn7VKg6MnE/qHnktpKAaIaZhBekI0smggZ1vyShcxIr3qmuyyE/S8x3EHmQ1LzYj7+JySiG+A69fLIHUHfx66gJFs7ZCN2/Zw+Tv1CwepfYAK2lMuf6VvUmqF9q5RsXEvupw10mR0JJppAinds/VugGUxKFx+SGisXQVMeGbdeBjSepAhKH72hOEZGPpGnyHm+Y8uGL6DKAFFcPZignm94r/LM4vlTE6l8E4DuGGCCh/6xYYgu6kj2WguXOLjfBOZEJ6LiWckWZmZ2ZzE8cPVODlx5++92MVRhfbYUNiU+C/DAzITsP0GyTyrVZ5fB9pWnD1Y0f/nJJcseo8+++b9WtWYJ+ZZfu13XgbYUlGhHN25F06tWuuUcpnkneIM1JwSjT9XEdzp6disG40jmWvzFfacY6YnEB/PzsftjN/SDnqN0S2S3jJPr5Rn"
 }
