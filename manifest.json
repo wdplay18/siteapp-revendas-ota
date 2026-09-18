@@ -1,7 +1,7 @@
 {
   "version": "1.0.10",
   "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.10.zip",
-  "sha256": "5a72d258d011910a8acc5a0aa450eb15109c3c8b3026c3f18ae857efbdf81486",
+  "sha256": "551610d7de27bf241f3c782849c4f88fd10bb6f8f98e2b8a601761a5b417fed3",
   "changelog": [
     "Redesign visual consolidado da loja pública, detalhes dos aplicativos e Central de Tutoriais.",
     "Refinamentos mobile-first para 360, 390 e 430 px, com navegação rolável, alvos de toque e prevenção de overflow.",
@@ -9,5 +9,5 @@
   ],
   "signature_algorithm": "RSA-SHA256",
   "key_id": "rsa-2026-09-v3",
-  "signature": "IL3LAAXXCAXFvu4aXkQYsBJVoh2i322NWD7cBrJh6w+G5Y9TNE6wlmB0zZSwDxRmzTY/7FFeqqx9WbqRUbKvcXoO3116e1xaN9YGCpEiziYhX68e41ZcOyQk/LN5Nkb6rnm5HTreyKf7TNQovDy3nrP5bq4yIGExg5lxqpH1byEi4UksGaBV/DhUKnuI/Q+gRJuXPK9ER+rLt9qRk7+TzyOEa2AgxxtM0+jQIGtFppraaqx4WbGdfPGhGdT1ItcmoYtHaCvVTHkvjybFzwBtw6jUYpWRF2/ECi41HNklbcdrZzX73yGsGRMABRLQbgClFo80+G6Fts5/3s8SZrb946xylucFPDGM7Ps1uloftq94FpgYH1SxmD4478P5kAMT2O2KcUEb6OARllaM0w8hlxCo52PM5SIdPAZ16KCl6q6sKwkm19nyvfFTvMRUrmiIYVNSLtz//ED/dvFgiiAJ62DImi4c89eKsD/wkKkUjTDykDddLtSJNnrTeRFtUgOQ"
+  "signature": "g/MiTiXlN25I5hZhjeyfabbqDeis+rRAo2MivpzCv3MyDVxaawS8G11CfjdGpOHpKzzdwn2khcr2TgwRPdPyRzuezI/9tB2WFm/Nb4I34GHWtZIDW5QS5NOKUHq9oIXEz2TxZzoVJFEl6mtUzclZta9Mk2tJYX59L02Dx24uc7q0VjdKfn8ezVkaEUFLZqtVybisG1QDYooP4aThOQuGHkd1afcpHfCqzj6sr0BsxPCSOftN+EBx/CB1ufXCKvRWS1dmFSfShA9xl8NSGYVYEYNIVS/PICy5EGnbjhoIalHgIcDB4Qe1WVU90GmNw2gylLCS9PW5HxaVzBTfWGnjCx0imNrfamlhpV3TQ2cpuFiQIse3teISqzAu+uvhjoc2hKTx3IL0HwpK4sjzpiKvF3sBoMX01n6+J63JDg22aao+vSt9Z81EqRpZ+qXLdUZQLauCwfngP05GV7vhqUg5Ilv/dfa8FpfRekLHhwo9H21Edb1jWipmkV1gCrUiMk64"
 }
