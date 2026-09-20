@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - '.github/workflows/publish-ota-1.0.16.yml'
+  pull_request:
 permissions:
   contents: write
 jobs:
