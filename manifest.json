@@ -1,14 +1,13 @@
 {
-  "version": "1.0.17",
-  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.17.zip",
-  "sha256": "ea4c3838e6bf4be83443a9b937c3a293bf5623a7588b97acf5d08621c0573dcb",
+  "version": "1.0.18",
+  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.18.zip",
+  "sha256": "aab162a152330d4155115fbb39e3865edb3e8d87dde7e0845cdbd61460872852",
   "changelog": [
-    "Adiciona Guia de Jogos automático por APIs para Futebol, Basquete e UFC.",
-    "Inclui programação de hoje e amanhã, filtros por esporte, situação da partida e busca.",
-    "Reforça consultas externas com HTTPS, proteção SSRF, cache de 60 segundos e fallback controlado.",
-    "Prepara a atualização do banco V8 para V9 exclusivamente pelo Painel → Backup, com backup obrigatório e confirmação controlada."
+    "Corrige a abertura do menu hambúrguer nas páginas públicas em dispositivos móveis.",
+    "Garante que Aplicativos, Tutoriais, Planos e Jogos do Dia apareçam no menu aberto.",
+    "Centraliza o comportamento da navegação móvel e melhora fechamento, teclado e acessibilidade."
   ],
   "signature_algorithm": "RSA-SHA256",
   "key_id": "rsa-2026-09-v3",
-  "signature": "KxDcUCfalJRFac9x2UWB5AxpI6JmQSYWkMcF11g2F7oxvQ+j3xyIOBUE9gPoNz6+F6x3jil630hxUsnEpjVvemZ1Hgl+XBBdbJ8PXL4OPgKP3nKK4IvahauWlilp5MFGhtySjfXI+fjrxXMPGuA1QNcPKzZ1l/BXL54m5+HLtfb/NWf5rl4Ka7CztMQaKWBQ3v5imOjDoDVHulAqDlWNToKwCAZqJSgZAEmzJPBhVYwqe4Hy8+X839GLLGMZO/GPO1CwAzgC4HM87Dn0lLr5rs3WJ+ysci3lJLThsTe0SpXLjRH5T0s8nUcIz9sK0Q/pIGxNaetEC/GPnJ9yEZ9D7jCvis3kW4M/2U/ITcSfsYhtaRazHKG2u4m+EY8EPGQ2kdRlH4eT/uoPdnNc9k7f4W7T5DNHdMKUJhxWpzrpY2xL4a6rgCKd1ne2TVpL5AWaHiIXQ962SpJVMueua+LVpczhA30kVxhax24nXePdro9hDZX0/RVDFVxEXZP++trV"
+  "signature": "ZHoDgNFZYgKwVo22Nn4DHZY+D/EJodsX3OVffpoB8BQ6fVbfgNPL737XvKh/zjqcMs1rOhkVTBl6PkbuO/XHI9a4IwUEZExRbajgpAwbffgLWFdRrV+8aUMps5gh9RdwfXH95YBr8kYe7/upXWudSHTWy/HQIpeIWIcsJ/RBQSP54JuIt5rleXcAKdBzfwEehbTlP6cBNphQYDwBpLKN+RsbCPRKlsuMg6Od25YWPx12u7PZbyU2cLJoQtaw3mI9+Y6StQl1GPuct9fCYH6UHxQ9kQBOYOMiRVgYmUzmTgEyvi9AL0FpgvTrgJF8dlJXHLYYdY4TZW2XIvsUomBSvbiTPm0Uk56tF1prprxhsQiRbi0md5kK5COtYHnNBV10kDFx7lvJtjUZiRGz3Wct1bmbi3VRufnhaVUqzs4t5aBDL9iT8wu9FsUnppibmXG0rokW7juY42YohyAOeSBfP7LvfhrGaFpMnhvGiLVqkpyKT1MD9bkZOeT5871EnOnn"
 }
