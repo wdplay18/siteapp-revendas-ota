@@ -1,14 +1,14 @@
 {
-  "version": "1.0.16",
-  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.16.zip",
-  "sha256": "6939b5b68f837dcbdf076c296f5ac764b5e696f7e4e80af0ac491416a9b7c504",
+  "version": "1.0.17",
+  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.17.zip",
+  "sha256": "ea4c3838e6bf4be83443a9b937c3a293bf5623a7588b97acf5d08621c0573dcb",
   "changelog": [
-    "Refina a experiência mobile de Aplicativos, Tutoriais, Planos e Jogos do Dia conforme a referência visual.",
-    "Consolida a administração de WhatsApp e Planos por site, com Guia de Jogos centralizado no Master.",
-    "Reforça validações, limites de campos e confirmações seguras nos módulos comerciais.",
-    "Inclui a migração V8 para WhatsApp, Planos e Guia de Jogos quando o banco ainda precisar ser atualizado."
+    "Adiciona Guia de Jogos automático por APIs para Futebol, Basquete e UFC.",
+    "Inclui programação de hoje e amanhã, filtros por esporte, situação da partida e busca.",
+    "Reforça consultas externas com HTTPS, proteção SSRF, cache de 60 segundos e fallback controlado.",
+    "Prepara a atualização do banco V8 para V9 exclusivamente pelo Painel → Backup, com backup obrigatório e confirmação controlada."
   ],
   "signature_algorithm": "RSA-SHA256",
   "key_id": "rsa-2026-09-v3",
-  "signature": "Ao3dxNhV7G5BFDRO3wttDhTJofg/Db1Q0zSwnxvRV76e37/plv6ZBGd/i29Qx0O1WH9VEl97oQ+Z/PLBS8owIZoObYDeHfqSEu/yR9eFH6dSR2lTIGepu37V1Jq1jEcxZEsBtoBWsDwzaqiaWUOXWDacR5BQvUAJvDR69JICmoeU/C7s2Mvl3ZPU1GrH3jQPAslMQ66wqZvpdXb3z/fEAGOQ8A/DZnBCAyRxl241hyNBb5vbfzDI74j+5cX9loqFdjJ/32VhZbhuGqNhhy5O/FTnnfSuF8xyNN1waGYgy4A6gJljPphpY/3nsqmKpeF6A2teQxE5it5vJwMHkiU/PVn6U8VpgbE/eRH+BGVjaBUKr/xI7QhlAhn4j5K8E01mcuTFxStiOkAI5H4HiXiuW3HElf2EB0jteUJeOdUdUcSAuzKZX7/OkSBY3CIDUv+ydyOhjemGyTgP7IsgRniuGooWGgNBmW0DmE1oB1Ge1nW6Z5L2+0obOiE9E23+Aq9M"
+  "signature": "DwFSADhMEMe6VJ+dcRoA27KvezM4u4CoASY1iyPfLTK/eoOeyEWDkYxu5LG1MzDV0xRd45Ir9+w9Mh10XYZRWz3jx+DOzMx/ZAXhaCLEE/2E61BTX3YAyQtnJdPp10Atn758mC1qMUUws/QMvlwdAwxkXn84Yzd1/tgf7oBFOl2Z3Y2VJOXIZ3qMUbY4I021Z5M763rCAsHqGZY9AuAhmhSE3XEkFaQW6Mnbfi5T69ioVIdwSx2FododqLCsWRFyHJp8txAhvBi1I2zaWCsUs0KGrCjBE1bY0Dieitb7nnUu0o9NXbcY6imoG7z2cK2sg1kOjh0nrejboNKWm23httwnH9eLxL7UAqVtmnG6dIGpDFllag7CQ1uQ2ZAJdpI+gAMtmkUAdY/GMutje77hSoIVFmLwXfzVTFIOuKA5w3wVOsFRaz/8bNUqXOxC8ejPOLayZ555LmvQbYORrMx7jDYRMiwp19BJueOVoRsFswBozYKwhfaIqbZevhx3FmYm"
 }
