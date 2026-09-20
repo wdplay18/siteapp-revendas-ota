@@ -1,12 +1,14 @@
 {
-  "version": "1.0.14",
-  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.14.zip",
-  "sha256": "b9fbb9187d5c6c6fdfcbccc4c17c9bffb22a06b7ff4bfec1848ed45a11d245dc",
+  "version": "1.0.16",
+  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.16.zip",
+  "sha256": "6939b5b68f837dcbdf076c296f5ac764b5e696f7e4e80af0ac491416a9b7c504",
   "changelog": [
-    "Corrige a tela vazia nos módulos WhatsApp, Planos e Guia de Jogos após a migração V8.",
-    "Conecta corretamente as telas comerciais à conexão ativa do painel administrativo."
+    "Refina a experiência mobile de Aplicativos, Tutoriais, Planos e Jogos do Dia conforme a referência visual.",
+    "Consolida a administração de WhatsApp e Planos por site, com Guia de Jogos centralizado no Master.",
+    "Reforça validações, limites de campos e confirmações seguras nos módulos comerciais.",
+    "Inclui a migração V8 para WhatsApp, Planos e Guia de Jogos quando o banco ainda precisar ser atualizado."
   ],
   "signature_algorithm": "RSA-SHA256",
   "key_id": "rsa-2026-09-v3",
-  "signature": "b4tD4KgKFKNOM/wsEvoyb06ZiKwF3Z8rRaJheHQREaKyzARJc9x5EW1Py2IQTtQfyW1PeuCdFmBxlJllo9q/i9Yb525I+x8uXBbN4al/5PCQ0P3Wir05GWZST1Sh3lJGHN7eip5Ohg+q+6CiPbC3Mg5uewEHw7y48MFyJXUJ2k8igAZlF1E8JDcgg+p1k1A/fbhTDO0MVYLNsG1RCazltUG9sMLPxq5HAEY53WUWEfURaUumkaDgdtHx/NRubh6OHHLqKjJQTlS4xwv0JF8urt5CBAAvvxFS2bU9W+2lcd/kncEdaR+/iwTi5vIEJdWYXVU3B3WIkTEfEglCAZIxGMjgPeLux18VAbmayRx4q+p2FmFPzdDDz7DtChHfqhEE6PoeJ/agiGpNyuOvz4oKEURn/qqTIziPdfKypREzKjwSSFIoLEeV1jpP4wRSEM+RhnT/5FyR2vWFWv9ERYwROBCIjXRMmNe6+hzaPqGwVzdVbzM6boGqw8Oh/7O4TPs/"
+  "signature": "Ao3dxNhV7G5BFDRO3wttDhTJofg/Db1Q0zSwnxvRV76e37/plv6ZBGd/i29Qx0O1WH9VEl97oQ+Z/PLBS8owIZoObYDeHfqSEu/yR9eFH6dSR2lTIGepu37V1Jq1jEcxZEsBtoBWsDwzaqiaWUOXWDacR5BQvUAJvDR69JICmoeU/C7s2Mvl3ZPU1GrH3jQPAslMQ66wqZvpdXb3z/fEAGOQ8A/DZnBCAyRxl241hyNBb5vbfzDI74j+5cX9loqFdjJ/32VhZbhuGqNhhy5O/FTnnfSuF8xyNN1waGYgy4A6gJljPphpY/3nsqmKpeF6A2teQxE5it5vJwMHkiU/PVn6U8VpgbE/eRH+BGVjaBUKr/xI7QhlAhn4j5K8E01mcuTFxStiOkAI5H4HiXiuW3HElf2EB0jteUJeOdUdUcSAuzKZX7/OkSBY3CIDUv+ydyOhjemGyTgP7IsgRniuGooWGgNBmW0DmE1oB1Ge1nW6Z5L2+0obOiE9E23+Aq9M"
 }
