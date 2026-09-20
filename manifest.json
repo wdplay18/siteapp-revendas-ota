@@ -1,13 +1,14 @@
 {
-  "version": "1.0.18",
-  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.18.zip",
-  "sha256": "aab162a152330d4155115fbb39e3865edb3e8d87dde7e0845cdbd61460872852",
+  "version": "1.0.19",
+  "package_url": "https://raw.githubusercontent.com/wdplay18/siteapp-revendas-ota/main/packages/siteapp-revendas-1.0.19.zip",
+  "sha256": "0929f3f23ba037adc83ef5de10a1a80ad1ef48dc23dbf5ac3c2fda13a8aac97d",
   "changelog": [
-    "Corrige a abertura do menu hambúrguer nas páginas públicas em dispositivos móveis.",
-    "Garante que Aplicativos, Tutoriais, Planos e Jogos do Dia apareçam no menu aberto.",
-    "Centraliza o comportamento da navegação móvel e melhora fechamento, teclado e acessibilidade."
+    "Reconstrói o catálogo público para seguir a estrutura visual do site-base.",
+    "Adiciona abas SmartTV, Android e Tutoriais com filtros por dispositivo.",
+    "Adiciona cards completos, galeria, ações de download/tutorial/compartilhamento e modal de códigos.",
+    "Amplia as opções Samsung, LG, Roku e TV Android no painel sem alterar o banco de dados."
   ],
   "signature_algorithm": "RSA-SHA256",
   "key_id": "rsa-2026-09-v3",
-  "signature": "ZHoDgNFZYgKwVo22Nn4DHZY+D/EJodsX3OVffpoB8BQ6fVbfgNPL737XvKh/zjqcMs1rOhkVTBl6PkbuO/XHI9a4IwUEZExRbajgpAwbffgLWFdRrV+8aUMps5gh9RdwfXH95YBr8kYe7/upXWudSHTWy/HQIpeIWIcsJ/RBQSP54JuIt5rleXcAKdBzfwEehbTlP6cBNphQYDwBpLKN+RsbCPRKlsuMg6Od25YWPx12u7PZbyU2cLJoQtaw3mI9+Y6StQl1GPuct9fCYH6UHxQ9kQBOYOMiRVgYmUzmTgEyvi9AL0FpgvTrgJF8dlJXHLYYdY4TZW2XIvsUomBSvbiTPm0Uk56tF1prprxhsQiRbi0md5kK5COtYHnNBV10kDFx7lvJtjUZiRGz3Wct1bmbi3VRufnhaVUqzs4t5aBDL9iT8wu9FsUnppibmXG0rokW7juY42YohyAOeSBfP7LvfhrGaFpMnhvGiLVqkpyKT1MD9bkZOeT5871EnOnn"
+  "signature": "djN5Eiiggkh7YqWSEJMz/BxnBNe03khhvAYhLUXBxufJc16m45NK+9/j/V90xKhmByoc+LaqAhC/8K+sHZeLUOqqWebCWaaqKu6NCBqZzIDGvSuhAnCCRa76oFItQ5NJrs2Q3JYD+my2zJf9ftsfNOu0iu/sqXPZTsmsbCiG/DrvFSQ5wWTkDsM7Pj01b8kVmGjPNCziAjo1+j3Z92z6BYgCdtkpX04IxaEDgdi42n29IaxGOnNfjEdcZebQQ5OMvtLbGAXLE3uP4qBDvfl1uBGmW62/K1nFuxaeUfmOyPz5jI6hK3MC8ByHcvywMzdrVOW6Pk8k8zTu4IAwbRlQPgxCB6a3VbJEHKOLfl57XEhmf6M45f1PlyHcovirjbbVnVOXDad/x3mc3bi31TrLpZ+j0FCK6shsaOp/GBU9yljnW/AGBZX9K3aTpRCgoKhBTjPcSN8WN7feOuxk0pTS1M8v+n0HeWIXmG+6/Zu9vb2/aAw3hylKAjXYii6TQ1Cr"
 }
